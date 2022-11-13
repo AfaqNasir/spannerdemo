@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dogwood-actor-327302",
+  "private_key_id": "ee7865a5b2829d4291868320499660de03bb71f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpZSpB2mlT4VE5\n04wFTxM07aGVD84eUSn4Zy1ocVqed2703CB2Tx0Tn8/4f0i2ksKxQ3RBCd6TXmko\nktQKDoj1wdYFksJvTg1M6CpgZA1VDZAuB35QXjKBB7mJ783TDq75CJz5WGtJOcZc\n3q/rzpD4ek2lwk3U1TPB++XWjmjh3jqr7bmPd8DNh03AXW/3o2upxkTaXTIDvNUq\nTOwkcqbi1wPNt/0ROE9e4ack5CHWC6+ab1GJ0QIbHi5BUwdeutf6k0ksKkPOq8mC\n/NXH37VdX85WKkTmPVRo1MfvVpf3586g0BEDikCE8+WNBBUuhXFfnn6zVf4uFvm7\nDqfODl4PAgMBAAECggEAG5ZTW/cx48xppI/BxCmSeLJh+CXjTR0DHKZ9BtSTIVn/\nvYFOCMaDTJYLJ4QJ4ltODtLBT52dBzC/J9xFtmo96ZGLBUxXPbZJ7zujjyAsQFed\norQWC7Oo6PT08AnDDPuICRxbKDaQqRPE14zCvMC0QRX1/agCcfDTkDoxvmVh9Qqu\nxKZAdDsSM7pLbwmDUxhOF0FbFGlncUkCKsYJT7Csor/JO8qNKkl3wyR9BUvuN1/H\nKwZYnxZqcQ4QvEX/kJRgWFDoHy0hyq7P0UXBnAoNkOQaYugvPu212k4bGthMmxz7\n5qDAgePvkncyGxOy9na4Pzeyg1X3ny6IwcmwKApMuQKBgQDYqf8r+yLQot2NUjVj\nr+boe6irBQoWHiX94Wan8EFyn4+tov62GDxzRqaRrchii/LQd13lf+3dJj0SFUTV\nmZlo3GJydh2O1xC/2sL9r45phX3TsPmPtJYcMQSo9mSsTvWHStnCSribiqSzQQAN\nz+5yNXDQN0joGHZkYgqjlzKLFwKBgQDIJjqwK7cGJGAAMQTbUs54Ecg8pMdTXdI1\nvY0vyXEMpxyYVSzO0VQsOSH6rsicDTXcZ0Qit4ZK0G7x1GtTVveW4IjIWZJn/I9j\niU2TLpBpSWS8m1m+PNwDPvUmCY2dZtgyvdz3u0ZYonjzBmMIsFPgZ66rYK8sKdfc\n+Otops+/yQKBgHVL0zFkTHzXL0qK7wyA9ml2SOINYGCJAdhoZsMUdtovOAGw9GRw\nyok9/n9vrcRsL5BcjyDoGUZYpUdc7F8XQM5cQY/mEip6lD7JmDbvDBJkirJIZVM/\nWOT6RKOUgPwn4xTTmQBuo3LRpEjHL9hKcbSy6dhPldDRLYc67LeT63ERAoGAbV6W\ni1YX+T8/RluC7+Zb9Lii1qCkWyXVjJA76nUFVYir04IXrhwtBs1hh/6imMOPPxUe\n4mmu9IrZVURiMXRAby3bEMABhNk58YZB4b98Ikx8w6OQcqgHAa8RfuuRewWL9o5R\nhP3M/vopZYOD8meILgP6KqP2lQd4ccODv/gHZiECgYEAh1E4ekQDdRRqEj672tv6\nfsyJphCu0OiyKwcVeU8AX8wlHRzjWKl3F3Q556qffjgDAq1wBvHCpa8IzPb6foYy\nMWoLHNijMELLuCA41O8reeHsAQ3IbWQQLiuxkt1C5jkuyQnx1QkQ5eOGzffzxX01\nnOGczJMLl9b0umb3cZ6qpUM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spanner-demo@dogwood-actor-327302.iam.gserviceaccount.com",
+  "client_id": "109932864807581892930",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spanner-demo%40dogwood-actor-327302.iam.gserviceaccount.com"
+}
