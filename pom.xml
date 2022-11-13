@@ -14,7 +14,7 @@
 	<name>spannerdemo</name>
 	<description>Demo project for Spring Boot GCP Spanner Demo</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 		<spring-cloud-gcp.version>3.4.0</spring-cloud-gcp.version>
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 	</properties>
